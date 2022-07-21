@@ -10,6 +10,7 @@
 [submodule "lib/dss"]
 	path = lib/dss
 	url = https://github.com/tgfukuda/dss
+	branch = jpyf
 [submodule "lib/esm"]
 	path = lib/esm
 	url = https://github.com/makerdao/esm
